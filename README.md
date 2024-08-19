@@ -1,0 +1,1 @@
+This is my contribution to the [store sales time series](https://www.kaggle.com/competitions/store-sales-time-series-forecasting) [Kaggle](https://www.kaggle.com/) competition. I did quite well, could bring my score to be in the top quarter of the leaderboard.
